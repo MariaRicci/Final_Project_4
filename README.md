@@ -8,6 +8,9 @@ Stakeholders who could benefit having this information are consumers, the compan
 ## What is Twitter?
 Twitter is an online social media and social networking service performed by micro blogging in real time.
 
+## What is Sentiment Analysis?
+As per Wipedia definition, sentiment analysis (also known as opinion mining or emotion AI) is the use of natural language processing, text analysis, computational linguistics, and biometrics to systematically identify, extract, quantify, and study affective states and subjective information. Sentiment analysis is widely applied to voice of the customer materials.
+
 ## Models
 
 Chosen models are:
@@ -18,7 +21,7 @@ Chosen models are:
 
 ## Evaluation
 
-Chosen metric: 
+Chosen metrics are:
 
 - Precision.
 - Recall.
@@ -190,7 +193,7 @@ According to the interpretation of these results, among the models used to solve
 
 As the matter of fact, the Support Vector Machine model was able to predict correctly positive tweets with very high degree (precision: 96%, recall 80%, F1 score 93%) results. This trend is also confirmed by the ROC plots which returns a almost perfect capability of identification.
 
-## RECOMMENDATIONS
+## RECOMMENDATIONS AND FURTHER RESEARCH
 
 - Users seems to complain about: 
     - Iphone's usability features and related performance like for battery
@@ -201,6 +204,7 @@ As the matter of fact, the Support Vector Machine model was able to predict corr
 It would advisable to focus on improving these items.
 
 Alternative forms of customer engagement like conferences, parties and pop stores are highly appreciated. For this reason, it would be recommendable to keep investing on this line.
+It would be advisable to invest in furthering the modeling process with more algorythms and parameters manipulation.
 
 
 
